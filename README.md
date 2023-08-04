@@ -15,3 +15,14 @@ pip install -r requirements.txt
 
 ```
 install postgresql
+
+Go inside `Backend`, then write the following commands
+`source .env`
+`export FLASK_APP=app.py`
+`flask run`
+
+
+## Frontend
+Go inside Frontend folder, then write the following commands to start the react server
+`npm install`
+`npm start`
